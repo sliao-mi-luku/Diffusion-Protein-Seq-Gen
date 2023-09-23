@@ -18,6 +18,7 @@ This document shows how to apply the Diffusion-LM framework to generating protei
     - Classifier-free conditional generation
     - Classifier-guided conditional generation
 
+Examples of generated protein sequences conditioned on different tm categories (`low`, `medium`, `high`) can be found in the folder `results`.
 
 
 ## Clone the original Diffusion-LM repository
